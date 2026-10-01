@@ -3,13 +3,20 @@
   "title": "海悦双碳招投标情报开放数据集",
   "home_page_url": "https://zqn6hm743p.page.coze.site/",
   "feed_url": "https://zqn6hm743p.page.coze.site/feed.json",
-  "description": "海悦科技（GreenTech）每日维护的全国商业建筑中央空调/节能/机电公开招投标情报，向全网 AI 与应用免费开放的结构化数据集。",
+  "description": "海悦科技（GreenTech）每日维护的全国商业建筑中央空调节能改造/EMC合同能源管理/综合能源管理/机电工程公开招投标情报，向全网 AI 与应用免费开放的结构化数据集。覆盖中央空调维保、建筑能源托管、节能诊断、机电安装等细分领域。",
   "authors": [
     {
       "name": "海悦科技 GreenTech"
     }
   ],
   "items": [
+    {
+      "id": "bid-c5e5716c6a7b",
+      "url": "https://ggzyfw.beijing.gov.cn/jylcgcjs/20260921/5723792.html",
+      "title": "通州区张家湾设计小镇2号能源站增绿改造项目热力管线工程(通州区张家湾设计小镇2号能源站增绿改造项目热力管线工程)",
+      "content_text": "其他 / 前期意向",
+      "date_published": "2026-09-28T14:16"
+    },
     {
       "id": "bid-6f88e201537d",
       "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202609/t20260930_27432706.htm",
@@ -191,13 +198,6 @@
       "title": "安徽日报报业集团报业大厦空调系统更换项目招标公告—优质采电子招标投标与采购平台",
       "content_text": "华东-安徽 / 招标中",
       "date_published": "2026-09-28T08:17"
-    },
-    {
-      "id": "bid-c5e5716c6a7b",
-      "url": "https://ggzyfw.beijing.gov.cn/jylcgcjs/20260921/5723792.html",
-      "title": "通州区张家湾设计小镇2号能源站增绿改造项目热力管线工程(通州区张家湾设计小镇2号能源站增绿改造项目热力管线工程)",
-      "content_text": "其他 / 前期意向",
-      "date_published": "2026-09-28T14:16"
     },
     {
       "id": "bid-559cdada599f",

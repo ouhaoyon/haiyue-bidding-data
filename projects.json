@@ -1,12 +1,12 @@
 {
   "name": "海悦双碳招投标情报开放数据集",
-  "description": "海悦科技（GreenTech）每日维护的全国商业建筑中央空调/节能/机电公开招投标情报，向全网 AI 与应用免费开放的结构化数据集。",
+  "description": "海悦科技（GreenTech）每日维护的全国商业建筑中央空调节能改造/EMC合同能源管理/综合能源管理/机电工程公开招投标情报，向全网 AI 与应用免费开放的结构化数据集。覆盖中央空调维保、建筑能源托管、节能诊断、机电安装等细分领域。",
   "provider": "海悦科技 GreenTech（18年中央空调智慧运维与节能改造）",
   "contact": "400-961-0680 / shhydwq@hyuncn.cn",
   "source": "每日自动检索全国政府采购网、公共资源交易平台及招投标公告，人工核实",
   "data_license": "CC BY 4.0（署名即可，来源：海悦科技）。条目为公开政府采购/招投标公告的聚合与整理，原始公告版权归原发布方。",
-  "dataset_version": "2026-10-01 08:18:04",
-  "generated_at": "2026-10-01 09:46:08",
+  "dataset_version": "2026-10-01 14:11:36",
+  "generated_at": "2026-10-01 14:24:33",
   "total": 471,
   "schema": {
     "id": "稳定条目ID",
@@ -25,6 +25,22 @@
     "last_seen": "最近核实日期"
   },
   "items": [
+    {
+      "id": "bid-c5e5716c6a7b",
+      "name": "通州区张家湾设计小镇2号能源站增绿改造项目热力管线工程(通州区张家湾设计小镇2号能源站增绿改造项目热力管线工程)",
+      "url": "https://ggzyfw.beijing.gov.cn/jylcgcjs/20260921/5723792.html",
+      "region": "其他",
+      "stage": "前期意向",
+      "channel": "立项备案与意向",
+      "budget": "",
+      "deadline": "",
+      "summary": "",
+      "is_greater_bay": false,
+      "is_early_signal": false,
+      "note": "",
+      "first_seen": "2026-09-28 14:16",
+      "last_seen": "2026-10-01 14:11"
+    },
     {
       "id": "bid-6f88e201537d",
       "name": "芜湖市湾沚区一体推进公共机构领域合同能源管理项目招标公告",
@@ -440,22 +456,6 @@
       "note": "",
       "first_seen": "2026-09-28 08:17",
       "last_seen": "2026-10-01 08:18"
-    },
-    {
-      "id": "bid-c5e5716c6a7b",
-      "name": "通州区张家湾设计小镇2号能源站增绿改造项目热力管线工程(通州区张家湾设计小镇2号能源站增绿改造项目热力管线工程)",
-      "url": "https://ggzyfw.beijing.gov.cn/jylcgcjs/20260921/5723792.html",
-      "region": "其他",
-      "stage": "前期意向",
-      "channel": "立项备案与意向",
-      "budget": "",
-      "deadline": "",
-      "summary": "",
-      "is_greater_bay": false,
-      "is_early_signal": false,
-      "note": "",
-      "first_seen": "2026-09-28 14:16",
-      "last_seen": "2026-09-29 14:13"
     },
     {
       "id": "bid-559cdada599f",
